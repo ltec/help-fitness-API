@@ -24,4 +24,4 @@ new Ignitor(require('@adonisjs/fold'))
   .fireHttpServer()
   .catch(console.error)
 
-  ENV_SILENT = true
+  ENV_SILENT = true 
